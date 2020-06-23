@@ -1,0 +1,11 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "just a reporitory with some files to help me to learn typescript",
+  "author": "Augusto Carlos",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
